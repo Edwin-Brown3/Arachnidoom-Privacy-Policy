@@ -1,5 +1,4 @@
 # Arachnidoom-Privacy-Policy
-Privacy Policy
 
 Edwin Brown built the Arachnidoom! app as a Free app. This SERVICE is provided by Edwin Brown at no cost and is intended for use as is.
 
